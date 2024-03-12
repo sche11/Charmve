@@ -166,6 +166,7 @@
 
 ## Go 
 
+- [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
 - [Privilege-privacy/BiliBackup](https://github.com/Privilege-privacy/BiliBackup) - 自动将 BiliBili (B站) 收藏夹内的视频备份到 OneDrive 或其他云存储
 - [sche11/gotify-server](https://github.com/sche11/gotify-server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -502,6 +503,7 @@
 
 ## Python 
 
+- [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics. 
 - [NianBroken/ZFCheckScores](https://github.com/NianBroken/ZFCheckScores) - 正方教务管理系统每隔 30 分钟自动检测一次成绩是否有更新，若有更新，将通过微信推送及时通知用户。| 显示成绩提交时间 | 显示成绩提交人姓名 | 成绩信息按时间降序排序 | 计算 GPA | 计算百分制 GPA | 显示未公布成绩的课程 | 显示异常的课程
 - [Hakuuyosei/QQHistoryExport](https://github.com/Hakuuyosei/QQHistoryExport) - 安卓设备QQ聊天记录导出，支持图片/视频/音频/引用/文件 大部分消息，支持几乎所有的重要消息类型，支持PDF导出，未来将支持html导出
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
