@@ -653,7 +653,7 @@
 - [HuskyDG/initrd-magisk](https://github.com/HuskyDG/initrd-magisk) - Integrate Magisk into Android-x86 project
 - [stilleshan/rssforever](https://github.com/stilleshan/rssforever) - Nginx + TTRSS / FreshRSS + RSSHub 整合 docker 容器化一键部署方案.
 - [yc9559/uperf](https://github.com/yc9559/uperf) - Userspace performance controller for android
-- [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以 V2Ray（v4 版） 或 Xray、Nginx 或 Caddy（V2 版）、TUIC 或 Hysteria 等打造常用科学上网的最优组合示例及优化配置，且提供集成特定插件的 Caddy（v2 版） 程序，分享给大家食用及自己备份。
+- [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以 V2Ray（v4 版） 或 Xray、Nginx 或 Caddy（v2 版）、TUIC 或 Hysteria 等打造常用科学上网的最优组合示例及优化配置，且提供集成特定插件的 Caddy（v2 版） 程序，分享给大家食用及自己备份。
 - [2moe/tmoe](https://github.com/2moe/tmoe) - TMOE, More Optional Environments.
 - [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) - Colorize your termux! Oh-my-zsh included!
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
