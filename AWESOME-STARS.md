@@ -419,6 +419,7 @@
 
 ## Lua 
 
+- [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
 - [AegirTech/ArkLights](https://github.com/AegirTech/ArkLights) - 明日方舟速通 arknights
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [huajiqaq/Hydrogen](https://github.com/huajiqaq/Hydrogen) - 一个基于androlua+开发的第三方知乎安卓客户端
@@ -672,6 +673,7 @@
 
 ## TypeScript 
 
+- [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
 - [sche11/wewe-rss](https://github.com/sche11/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
