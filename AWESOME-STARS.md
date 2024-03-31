@@ -162,6 +162,7 @@
 
 ## EJS 
 
+- [sothx/mipad-magic-window](https://github.com/sothx/mipad-magic-window) - Hyper OS For Pad/Fold 完美横屏应用计划（二次修改版 Fork自酷安御坂初琴）
 - [sche11/netease-recent-profile](https://github.com/sche11/netease-recent-profile) - 🎧 将你的网易云音乐听歌记录生成一张可配置svg卡片
 
 ## Go 
@@ -443,7 +444,7 @@
 
 - [yafoo/pushme](https://github.com/yafoo/pushme) - PushMe，一个简单轻量的Android消息通知客户端！
 - [Paimon-Kawaii/Arkserver-run-in-android](https://github.com/Paimon-Kawaii/Arkserver-run-in-android) - A local arknights server run in android
-- [vscodev/kikoeru](https://github.com/vscodev/kikoeru) - Self-hosted DLsite works database
+- [vscodev/kikoeru](https://github.com/vscodev/kikoeru) - Self-hosted web media player for DLsite works
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [a5566123s/Calibre-BIG5toGBK](https://github.com/a5566123s/Calibre-BIG5toGBK) - 适用于Calibre的繁体转简体规则，正确率提升至99.9%
 - [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) - 小米 BootLoader《解锁资格答题测试》更新记录
