@@ -162,7 +162,7 @@
 
 ## EJS 
 
-- [sothx/mipad-magic-window](https://github.com/sothx/mipad-magic-window) - Hyper OS For Pad/Fold 完美横屏应用计划（二次修改版 Fork自酷安御坂初琴）
+- [sothx/mipad-magic-window](https://github.com/sothx/mipad-magic-window) - Hyper OS For Pad/Fold 完美横屏应用计划
 - [sche11/netease-recent-profile](https://github.com/sche11/netease-recent-profile) - 🎧 将你的网易云音乐听歌记录生成一张可配置svg卡片
 
 ## Go 
@@ -392,7 +392,7 @@
 - [F0x1d/LogFox](https://github.com/F0x1d/LogFox) - Yet another LogCat reader for Android
 - [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 - [bubelov/news](https://github.com/bubelov/news) - Feed Reader and Podcast Player for Android
-- [lihenggui/blocker](https://github.com/lihenggui/blocker) - An useful tool that controls android components
+- [lihenggui/blocker](https://github.com/lihenggui/blocker) - Utilize an integrated firewall to manage application components.
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android RSS reader app
 - [sche11/reader](https://github.com/sche11/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
