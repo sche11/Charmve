@@ -443,6 +443,7 @@
 
 ## Others 
 
+- [jiwangyihao/source-j-legado](https://github.com/jiwangyihao/source-j-legado) - My book source set for legado, mainly focused on light novels and maybe later manga (?)
 - [yafoo/pushme](https://github.com/yafoo/pushme) - PushMe，一个简单轻量的Android消息通知客户端！
 - [Paimon-Kawaii/Arkserver-run-in-android](https://github.com/Paimon-Kawaii/Arkserver-run-in-android) - A local arknights server run in android
 - [vscodev/kikoeru](https://github.com/vscodev/kikoeru) - Self-hosted web media player for DLsite works
