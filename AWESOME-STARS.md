@@ -167,7 +167,7 @@
 
 ## Go 
 
-- [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
+- [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive
 - [Privilege-privacy/BiliBackup](https://github.com/Privilege-privacy/BiliBackup) - 自动将 BiliBili (B站) 收藏夹内的视频备份到 OneDrive 或其他云存储
 - [sche11/gotify-server](https://github.com/sche11/gotify-server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
