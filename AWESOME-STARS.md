@@ -95,7 +95,7 @@
 - [Pixeval/Pixeval](https://github.com/Pixeval/Pixeval) - Wow. Yet another Pixiv client!
 - [justcoding121/titanium-web-proxy](https://github.com/justcoding121/titanium-web-proxy) - A cross-platform asynchronous HTTP(S) proxy server in C#.
 - [sche11/Sheas-Cealer](https://github.com/sche11/Sheas-Cealer) - Just Ceal It
-- [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法过墙)
+- [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络攻击，推动文化交流，发扬文化自信，培养爱国精神)
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
 - [SpaceTimee/Ona-Pix](https://github.com/SpaceTimee/Ona-Pix) - Yet Another Pixiv Tool (可用于 Pixiv 直连搜图)
 - [sche11/SteamTools](https://github.com/sche11/SteamTools) - 🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。
