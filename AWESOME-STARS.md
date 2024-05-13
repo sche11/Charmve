@@ -109,6 +109,7 @@
 
 ## C++ 
 
+- [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持剪贴板、OCR、HOOK等。Visual Novel translate tool , support clipboard / OCR/ HOOK
 - [huakunyang/SummerTTS](https://github.com/huakunyang/SummerTTS) - SummerTTS 是一个基于C++的独立编译的中文和英文语音合成项目，可以本地运行不需要网络，而且没有额外的依赖，一键编译完成即可用于中文和英文的语音合成。SummerTTS is a  standalone Chinese and English speech synthesis(TTS) project that has almost no dependency and could be e
 - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
 - [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索、快速选择扩展
