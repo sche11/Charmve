@@ -676,7 +676,7 @@
 
 ## TypeScript 
 
-- [MohamedBassem/hoarder-app](https://github.com/MohamedBassem/hoarder-app) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [lqzhgood/wechat-need-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
 - [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
 - [sche11/wewe-rss](https://github.com/sche11/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
