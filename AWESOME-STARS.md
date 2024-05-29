@@ -353,7 +353,7 @@
 - [Lancarus/Liver-Arknights-Tomorrow](https://github.com/Lancarus/Liver-Arknights-Tomorrow) - 基于按键精灵安卓版的明日方舟脚本
 - [VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether) - Browser Extension to Watch Videos Together on All Platforms / 一起看视频浏览器插件，兼容所有平台
 - [phobal/ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
-- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集
 - [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [jae-jae/Camtd](https://github.com/jae-jae/Camtd) - Chrome multi-threaded download manager extension,based on Aria2 and AriaNg.  Chrome多线程下载扩展。
