@@ -158,6 +158,7 @@
 
 - [sche11/V2ray-for-Doprax](https://github.com/sche11/V2ray-for-Doprax) - The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
 - [hiifeng/V2ray-for-Doprax](https://github.com/hiifeng/V2ray-for-Doprax) - The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [RayWangQvQ/BiliBiliTool.Docs](https://github.com/RayWangQvQ/BiliBiliTool.Docs) - BiliBiliTool的文档
 
 ## EJS 
@@ -662,7 +663,6 @@
 - [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以 V2Ray（v4 版） 或 Xray、Nginx 或 Caddy（v2 版）、Hysteria 等打造常用科学上网的最优组合示例及优化配置，且提供集成特定插件的 Caddy（v2 版） 程序，分享给大家食用及自己备份。
 - [2moe/tmoe](https://github.com/2moe/tmoe) - TMOE, More Optional Environments.
 - [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) - Colorize your termux! Oh-my-zsh included!
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [YAWAsau/backup_script](https://github.com/YAWAsau/backup_script) - 備份數據腳本
 - [UnblockNeteaseMusic/luci-app-unblockneteasemusic](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic) - [OpenWrt] 解除网易云音乐播放限制
 
@@ -809,7 +809,7 @@
 - [sche11/exhentai-manga-manager](https://github.com/sche11/exhentai-manga-manager) - ExHentai本地漫画标签管理阅读应用,  ExHentai local manga tag-manager and reader
 - [SchneeHertz/exhentai-manga-manager](https://github.com/SchneeHertz/exhentai-manga-manager) - ExHentai本地漫画标签管理阅读应用,  ExHentai local manga tag-manager and reader
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
-- [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) - 一个兼容 OneBot 协议的非官方网页版 QQ 客户端，使用 Vue 重制的全新版本。
+- [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) - 一个兼容 OneBot 协议的非官方网页版 QQ 客户端，支持 electron。
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [xlzy520/bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - Chrome/Firefox/Edge Extension bilibili img uploader。哔哩哔哩图床上传插件.https://chrome.google.com/webstore/detail/b%E7%AB%99%E5%9B%BE%E5%BA%8A/domljbndjbjgpkhdbmfgmiclggdfojnd?hl=zh-CN
