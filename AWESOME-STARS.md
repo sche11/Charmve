@@ -316,7 +316,6 @@
 - [sche11/bilibili-API-collect](https://github.com/sche11/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [sche11/wechrome](https://github.com/sche11/wechrome) - Chrome extension to unblock web wechat
 - [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!
-- [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [sche11/happypandax](https://github.com/sche11/happypandax) - A cross-platform server and client application for managing and reading manga and doujinshi
 - [happypandax/happypandax](https://github.com/happypandax/happypandax) - A cross-platform server and client application for managing and reading manga and doujinshi
 - [qinyongliang/keeweb](https://github.com/qinyongliang/keeweb) - Free cross-platform password manager compatible with KeePass
@@ -565,6 +564,7 @@
 - [danzou1ge6/pixiv_wahu](https://github.com/danzou1ge6/pixiv_wahu) - 
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
+- [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [ha0y/xiaomi_miot_raw](https://github.com/ha0y/xiaomi_miot_raw) - All-in-one & Easy-to-use. Integrate all your Xiaomi Smart Home - with a single integration and NO YAML files - into Home Assistant.
 - [sche11/SickZil-Machine](https://github.com/sche11/SickZil-Machine) - Manga/Comics Translation Helper Tool
 - [KUR-creative/SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine) - Manga/Comics Translation Helper Tool
