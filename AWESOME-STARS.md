@@ -367,7 +367,6 @@
 - [Enraged-Dun-Cookie-Development-Team/Dun-Cookie-Vue](https://github.com/Enraged-Dun-Cookie-Development-Team/Dun-Cookie-Vue) - 小刻食堂插件端：自由的兔兔把烙好的饼到处藏，就由小刻把它们都找出来吧！定时收集多端的数据源，包括微博，通讯组，官网，B站等等。
 - [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
 - [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
-- [inu1255/soulsign-chrome](https://github.com/inu1255/soulsign-chrome) - 魂签，一款用于自动签到的chrome插件
 - [adamyi/wechrome](https://github.com/adamyi/wechrome) - Chrome extension to unblock web wechat
 - [ipcjs/bilibili-helper](https://github.com/ipcjs/bilibili-helper) - 各种油猴脚本
 - [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
