@@ -17,6 +17,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
+- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -165,6 +166,10 @@
 
 - [sothx/mipad-magic-window](https://github.com/sothx/mipad-magic-window) - Hyper OS For Pad/Fold 完美横屏应用计划
 - [sche11/netease-recent-profile](https://github.com/sche11/netease-recent-profile) - 🎧 将你的网易云音乐听歌记录生成一张可配置svg卡片
+
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## Go 
 
@@ -514,7 +519,6 @@
 - [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
 - [NianBroken/ZFCheckScores](https://github.com/NianBroken/ZFCheckScores) - 正方教务管理系统每隔 30 分钟自动检测一次成绩是否有更新，若有更新，将通过微信推送及时通知用户。| 正方教务系统 | 显示成绩提交时间 | 显示成绩提交人姓名 | 成绩信息按时间降序排序 | 计算 GPA | 计算百分制 GPA | 显示未公布成绩的课程 | 显示异常的课程
 - [Hakuuyosei/QQHistoryExport](https://github.com/Hakuuyosei/QQHistoryExport) - 安卓设备QQ聊天记录导出，支持图片/视频/音频/引用/文件 大部分消息，支持几乎所有的重要消息类型，支持PDF导出，未来将支持html导出
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [LmeSzinc/StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot) - 崩坏：星穹铁道脚本 | Honkai: Star Rail auto bot (简体中文/繁體中文/English/Español)
 - [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 崩坏：星穹铁道全自动 三月七小助手
 - [takagisanmie/NIKKEAutoScript](https://github.com/takagisanmie/NIKKEAutoScript) - 胜利女神：NIKKE 自动日常脚本
