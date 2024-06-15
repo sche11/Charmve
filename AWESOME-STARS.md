@@ -391,7 +391,7 @@
 - [Houvven/Guise](https://github.com/Houvven/Guise) - 
 - [Yet-Zio/yetCalc](https://github.com/Yet-Zio/yetCalc) - Yet another calculator designed and developed for Android
 - [wenxuanjun/NoLitter](https://github.com/wenxuanjun/NoLitter) - Prevents apps from littering in storage.
-- [gallonyin/worktool](https://github.com/gallonyin/worktool) - 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT
+- [gallonyin/worktool](https://github.com/gallonyin/worktool) - Android无障碍服务工具
 - [F0x1d/LogFox](https://github.com/F0x1d/LogFox) - Yet another LogCat reader for Android
 - [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 - [bubelov/news](https://github.com/bubelov/news) - Feed Reader and Podcast Player for Android
