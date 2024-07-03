@@ -33,7 +33,6 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [Python](#python)
-- [QML](#qml)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -73,6 +72,7 @@
 
 ## C# # 
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [sche11/Playnite](https://github.com/sche11/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
@@ -447,7 +447,7 @@
 - [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
 - [yafoo/pushme](https://github.com/yafoo/pushme) - PushMe，一个简单轻量的Android消息通知客户端！
 - [Paimon-Kawaii/Arkserver-run-in-android](https://github.com/Paimon-Kawaii/Arkserver-run-in-android) - A local arknights server run in android
-- [vscodev/kikoeru](https://github.com/vscodev/kikoeru) - Self-hosted web media player for DLsite works
+- [vscodev/kikoeru](https://github.com/vscodev/kikoeru) - 一个自托管的 DLsite 作品整理和媒体播放软件, 使用 Go 和 Vue.js。
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [a5566123s/Calibre-BIG5toGBK](https://github.com/a5566123s/Calibre-BIG5toGBK) - 适用于Calibre的繁体转简体规则，正确率提升至99.9%
 - [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) - 小米 BootLoader《解锁资格答题测试》更新记录
@@ -510,6 +510,7 @@
 
 ## Python 
 
+- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
 - [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持剪贴板、OCR、HOOK等。Visual Novel translate tool , support clipboard / OCR/ HOOK
 - [ArkMowers/arknights-mower](https://github.com/ArkMowers/arknights-mower) - 《明日方舟》长草助手
 - [gooooooooooooogle/collectSub](https://github.com/gooooooooooooogle/collectSub) - 
@@ -605,6 +606,7 @@
 - [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi.
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
 - [LaMP57/BilibiliMangaDownload](https://github.com/LaMP57/BilibiliMangaDownload) - bilibili漫画下载
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 - [zhishixiang/tencent-push](https://github.com/zhishixiang/tencent-push) - 通过小米推送、FCM转发QQ、微信消息
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [SimonShi1994/Princess-connection-farm](https://github.com/SimonShi1994/Princess-connection-farm) - 国服PCR公主连结 多开自动农场脚本 基于opencv+UIAutomator
@@ -626,10 +628,6 @@
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界
 - [TachibanaYoshino/AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) - A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transfo
-
-## QML 
-
-- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 
 ## Ruby 
 
