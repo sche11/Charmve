@@ -339,7 +339,6 @@
 - [stefanopagliari/bibnotes](https://github.com/stefanopagliari/bibnotes) - 
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
-- [sche11/BangumiTV](https://github.com/sche11/BangumiTV) - 一个基于 Vercel Severless Function 的 Bangumi.tv 追番进度展示页面
 - [GeeKaven/BangumiTV](https://github.com/GeeKaven/BangumiTV) - 一个基于 Vercel Severless Function 的 Bangumi.tv 追番进度展示页面
 - [Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino) - A quick capture plugin for Obsidian, all data from your notes.
 - [redleafnew/zotero-updateifs](https://github.com/redleafnew/zotero-updateifs) - 从唯问更新影响因子Update IFs from Justscience，其他一系列工具，详见Readme
