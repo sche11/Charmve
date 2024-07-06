@@ -510,7 +510,6 @@
 ## Python 
 
 - [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
-- [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持剪贴板、OCR、HOOK等。Visual Novel translate tool , support clipboard / OCR/ HOOK
 - [ArkMowers/arknights-mower](https://github.com/ArkMowers/arknights-mower) - 《明日方舟》长草助手
 - [gooooooooooooogle/collectSub](https://github.com/gooooooooooooogle/collectSub) - 
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
