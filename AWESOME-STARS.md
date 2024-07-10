@@ -17,6 +17,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
+- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -167,6 +168,10 @@
 - [sothx/mipad-magic-window](https://github.com/sothx/mipad-magic-window) - Hyper OS For Pad/Fold 完美横屏应用计划
 - [sche11/netease-recent-profile](https://github.com/sche11/netease-recent-profile) - 🎧 将你的网易云音乐听歌记录生成一张可配置svg卡片
 
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 ## Go 
 
 - [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive
@@ -208,7 +213,6 @@
 
 ## HTML 
 
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [NoHeartPen/awesome_japanese_study_tools](https://github.com/NoHeartPen/awesome_japanese_study_tools) - 这个项目收集各种日语学习、研究的网站和工具。
 - [sche11/ctfileGet](https://github.com/sche11/ctfileGet) - 获取城通网盘一次性直连地址
 - [qinlili23333/ctfileGet](https://github.com/qinlili23333/ctfileGet) - 获取城通网盘一次性直连地址
