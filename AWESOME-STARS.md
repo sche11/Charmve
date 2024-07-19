@@ -134,6 +134,7 @@
 
 - [shaonianzhentan/google_maps](https://github.com/shaonianzhentan/google_maps) - 使用百度地图替换官方的Google地图
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
+- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [deathau/obsidian-snippets](https://github.com/deathau/obsidian-snippets) - 
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
@@ -216,7 +217,6 @@
 - [NoHeartPen/awesome_japanese_study_tools](https://github.com/NoHeartPen/awesome_japanese_study_tools) - 这个项目收集各种日语学习、研究的网站和工具。
 - [sche11/ctfileGet](https://github.com/sche11/ctfileGet) - 获取城通网盘一次性直连地址
 - [qinlili23333/ctfileGet](https://github.com/qinlili23333/ctfileGet) - 获取城通网盘一次性直连地址
-- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [anhao/TgMessage](https://github.com/anhao/TgMessage) - TG 消息推送机器人
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
@@ -508,7 +508,7 @@
 
 ## Python 
 
-- [sMythicalBird/ZenlessZoneZero-Auto](https://github.com/sMythicalBird/ZenlessZoneZero-Auto) - 绝区零 | ZenlessZoneZero | 零号空洞 | 自动化 | 图片分类 | OCR识别 | zzz
+- [sMythicalBird/ZenlessZoneZero-Auto](https://github.com/sMythicalBird/ZenlessZoneZero-Auto) - 绝区零 | ZenlessZoneZero | 零号空洞 | 自动化 | 图片分类 | OCR识别 | zzz | 图像分类
 - [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
 - [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持剪贴板、OCR、HOOK等。Visual Novel translate tool , support clipboard / OCR/ HOOK
 - [ArkMowers/arknights-mower](https://github.com/ArkMowers/arknights-mower) - 《明日方舟》长草助手
