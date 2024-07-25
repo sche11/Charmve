@@ -386,7 +386,7 @@
 ## Kotlin 
 
 - [shizheng233/CopyMangaJava](https://github.com/shizheng233/CopyMangaJava) - 一个第三方的拷贝漫画带有M3风格，支持动态主题。该App已通过Kotlin来实现，只是标题没改。
-- [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 8.0+
+- [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 - [Houvven/Guise](https://github.com/Houvven/Guise) - 
 - [Yet-Zio/yetCalc](https://github.com/Yet-Zio/yetCalc) - Yet another calculator designed and developed for Android
@@ -444,7 +444,7 @@
 - [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
 - [yafoo/pushme](https://github.com/yafoo/pushme) - PushMe，一个简单轻量的Android消息通知客户端！
 - [Paimon-Kawaii/Arkserver-run-in-android](https://github.com/Paimon-Kawaii/Arkserver-run-in-android) - A local arknights server run in android
-- [vscodev/kikoeru](https://github.com/vscodev/kikoeru) - 一个自托管的 DLsite 作品整理和媒体播放软件, 使用 Go 和 Vue.js。
+- [vscodev/kikoeru](https://github.com/vscodev/kikoeru) - 一个自托管的 DLsite 音声作品整理和媒体播放软件, 使用 Go 和 Vue.js。
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [a5566123s/Calibre-BIG5toGBK](https://github.com/a5566123s/Calibre-BIG5toGBK) - 适用于Calibre的繁体转简体规则，正确率提升至99.9%
 - [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) - 小米 BootLoader《解锁资格答题测试》更新记录
