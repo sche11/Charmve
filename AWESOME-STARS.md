@@ -388,7 +388,6 @@
 - [shizheng233/CopyMangaJava](https://github.com/shizheng233/CopyMangaJava) - 一个第三方的拷贝漫画带有M3风格，支持动态主题。该App已通过Kotlin来实现，只是标题没改。
 - [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
-- [Houvven/Guise](https://github.com/Houvven/Guise) - 
 - [Yet-Zio/yetCalc](https://github.com/Yet-Zio/yetCalc) - Yet another calculator designed and developed for Android
 - [wenxuanjun/NoLitter](https://github.com/wenxuanjun/NoLitter) - Prevents apps from littering in storage.
 - [gallonyin/worktool](https://github.com/gallonyin/worktool) - 一款安全稳定的Android无障碍服务工具，支持控制企微/微信来运行的无人值守群管理机器人
