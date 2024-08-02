@@ -440,6 +440,7 @@
 
 ## Others 
 
+- [qq77522980/syncLazybones](https://github.com/qq77522980/syncLazybones) - One key setup syncthing
 - [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
 - [yafoo/pushme](https://github.com/yafoo/pushme) - PushMe，一个简单轻量的Android消息通知客户端！
 - [Paimon-Kawaii/Arkserver-run-in-android](https://github.com/Paimon-Kawaii/Arkserver-run-in-android) - A local arknights server run in android
