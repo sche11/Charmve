@@ -385,6 +385,7 @@
 
 ## Kotlin 
 
+- [FishHawk/auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 - [shizheng233/CopyMangaJava](https://github.com/shizheng233/CopyMangaJava) - 一个第三方的拷贝漫画带有M3风格，支持动态主题。该App已通过Kotlin来实现，只是标题没改。
 - [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
