@@ -220,7 +220,7 @@
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [anhao/TgMessage](https://github.com/anhao/TgMessage) - TG 消息推送机器人
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
-- [anran-world/Anranawsl](https://github.com/anran-world/Anranawsl) - 公众号：OMGA，百度云Svip、免费获取优酷vip、芒果vip、B站大会员、腾讯vip、百度网盘Svip、科学上网不限速节点、白嫖白撸线报、SS、SSR、V2ray、百度网盘资源更新、百度网盘热门电视剧、电影、每天分享最新的百度网SVIP，迅雷超级会员，爱奇艺VIP会员，优酷VIP会员，哔哩哔哩大会员，百度文库VIP，网易云黑胶VIP，喜马拉雅VIP，千图网VIP ，包图网VIP，摄图网VIP，
+- [anran-world/Anranawsl](https://github.com/anran-world/Anranawsl) - 公众号：OMGA，百度云Svip、免费获取优酷vip、芒果vip、B站大会员、腾讯vip、百度网盘Svip、科学上网不限速节点、百度网盘代下载、SS、SSR、V2ray、百度网盘资源更新、百度网盘热门电视剧、电影、每天分享最新的百度网SVIP，迅雷超级会员，爱奇艺VIP会员，优酷VIP会员，哔哩哔哩大会员，百度文库VIP，网易云黑胶VIP，喜马拉雅VIP，千图网VIP ，包图网VIP，摄图网VIP
 - [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [sche11/TgMessage](https://github.com/sche11/TgMessage) - TG 消息推送机器人
@@ -440,6 +440,7 @@
 
 ## Others 
 
+- [Z4ee/Pipsi-ZZZ-Releases](https://github.com/Z4ee/Pipsi-ZZZ-Releases) - 
 - [qq77522980/syncLazybones](https://github.com/qq77522980/syncLazybones) - One key setup syncthing
 - [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
 - [yafoo/pushme](https://github.com/yafoo/pushme) - PushMe，一个简单轻量的Android消息通知客户端！
