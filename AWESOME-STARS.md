@@ -216,7 +216,6 @@
 
 - [NoHeartPen/awesome_japanese_study_tools](https://github.com/NoHeartPen/awesome_japanese_study_tools) - 这个项目收集各种日语学习、研究的网站和工具。
 - [sche11/ctfileGet](https://github.com/sche11/ctfileGet) - 获取城通网盘一次性直连地址
-- [qinlili23333/ctfileGet](https://github.com/qinlili23333/ctfileGet) - 获取城通网盘一次性直连地址
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [anhao/TgMessage](https://github.com/anhao/TgMessage) - TG 消息推送机器人
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
@@ -305,6 +304,7 @@
 - [vertex-app/vertex](https://github.com/vertex-app/vertex) - 适用于 PT 玩家的追剧刷流一体化综合管理工具
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [xqdd/highlight_new_words](https://github.com/xqdd/highlight_new_words) - chrome插件，根据有道或欧路词典生词本，在网页中标出生词，达到单词加强记忆效果
+- [qinlili23333/ctfileGet](https://github.com/qinlili23333/ctfileGet) - 获取城通网盘一次性直连地址
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 - [sche11/kikoeru-express](https://github.com/sche11/kikoeru-express) - kikoeru 后端，本地音声管理
 - [sche11/aliyundriveDailyCheck](https://github.com/sche11/aliyundriveDailyCheck) - 阿里云盘每日签到脚本 青龙面板支持
@@ -513,7 +513,7 @@
 - [H1DDENADM1N/CapsWriter-Offline](https://github.com/H1DDENADM1N/CapsWriter-Offline) - Windows端 离线语音输入、中译英、字幕转录；在线多译多、云剪贴板
 - [sMythicalBird/ZenlessZoneZero-Auto](https://github.com/sMythicalBird/ZenlessZoneZero-Auto) - 绝区零 | ZenlessZoneZero | 零号空洞 | 自动化 | 图片分类 | OCR识别 | zzz | 图像分类
 - [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
-- [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持剪贴板、OCR、HOOK等。Visual Novel translate tool , support clipboard / OCR/ HOOK
+- [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard
 - [ArkMowers/arknights-mower](https://github.com/ArkMowers/arknights-mower) - 《明日方舟》长草助手
 - [gooooooooooooogle/collectSub](https://github.com/gooooooooooooogle/collectSub) - 
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
