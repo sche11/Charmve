@@ -332,7 +332,7 @@
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [sche11/appmulsearch](https://github.com/sche11/appmulsearch) - https://rjss.pages.dev
 - [ashuang360/rjss](https://github.com/ashuang360/rjss) - https://rjss.pages.dev
-- [phguo/Send-to-Telegram-Chrome-extension](https://github.com/phguo/Send-to-Telegram-Chrome-extension) - Send-to-Telegram: an extension for Google Chrome that allows you to send web content to your own Telegram Bot.
+- [phguo/Send-to-Telegram-Chrome-Extension](https://github.com/phguo/Send-to-Telegram-Chrome-Extension) - Send-to-Telegram: an extension for Google Chrome that allows you to send web content to your own Telegram Bot.
 - [kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome) - An HTTP Web Server for Chrome (chrome.sockets API)
 - [WHG555/obsidian-docker](https://github.com/WHG555/obsidian-docker) - 在docker中安装了obsidian可以部署在服务器上通过网页进行访问
 - [stefanopagliari/bibnotes](https://github.com/stefanopagliari/bibnotes) - 
