@@ -322,6 +322,7 @@
 - [NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph) - Browser extension to add git graph to GitHub website.
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [sche11/bilibili-API-collect](https://github.com/sche11/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [sche11/wechrome](https://github.com/sche11/wechrome) - Chrome extension to unblock web wechat
 - [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!
 - [sche11/happypandax](https://github.com/sche11/happypandax) - A cross-platform server and client application for managing and reading manga and doujinshi
@@ -812,7 +813,6 @@
 
 - [sche11/exhentai-manga-manager](https://github.com/sche11/exhentai-manga-manager) - ExHentai本地漫画标签管理阅读应用,  ExHentai local manga tag-manager and reader
 - [SchneeHertz/exhentai-manga-manager](https://github.com/SchneeHertz/exhentai-manga-manager) - ExHentai本地漫画标签管理阅读应用,  ExHentai local manga tag-manager and reader
-- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) - 一个兼容 OneBot 协议的非官方网页版 QQ 客户端、electron 客户端。
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
