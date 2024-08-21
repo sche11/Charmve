@@ -443,6 +443,7 @@
 
 ## Others 
 
+- [st2024/Steamtools](https://github.com/st2024/Steamtools) - Stemtools is designed to enhance your Steam gaming experience by obtaining tickets, letting you freely enjoy games and unlock additional DLCs.
 - [Z4ee/Pipsi-ZZZ-Releases](https://github.com/Z4ee/Pipsi-ZZZ-Releases) - 
 - [qq77522980/syncLazybones](https://github.com/qq77522980/syncLazybones) - One key setup syncthing
 - [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
@@ -681,6 +682,7 @@
 
 ## TypeScript 
 
+- [chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record) - A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东)
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [lqzhgood/wechat-need-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
 - [sche11/wewe-rss](https://github.com/sche11/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
