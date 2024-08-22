@@ -322,7 +322,6 @@
 - [NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph) - Browser extension to add git graph to GitHub website.
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [sche11/bilibili-API-collect](https://github.com/sche11/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [sche11/wechrome](https://github.com/sche11/wechrome) - Chrome extension to unblock web wechat
 - [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!
 - [sche11/happypandax](https://github.com/sche11/happypandax) - A cross-platform server and client application for managing and reading manga and doujinshi
@@ -419,7 +418,6 @@
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [xyoye/DanDanPlayForAndroid](https://github.com/xyoye/DanDanPlayForAndroid) - 弹弹play 概念版，弹弹play系列应用安卓平台上的实现，是一个提供了视频播放（本地+局域网）和弹幕加载（在线+本地）功能的本地播放器
-- [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - 
 - [ichenhe/QQ-Notify-Evolution](https://github.com/ichenhe/QQ-Notify-Evolution) - 免ROOT优化QQ通知，支持多会话/多消息/多渠道，兼容手环手表。
 - [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 
@@ -496,6 +494,7 @@
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+- [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - 
 - [notxx/NevolutionXposed](https://github.com/notxx/NevolutionXposed) - 通过xposed实现nevolution
 
 ## PHP 
@@ -522,7 +521,7 @@
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫
 - [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
-- [NianBroken/ZFCheckScores](https://github.com/NianBroken/ZFCheckScores) - 正方教务管理系统每隔 30 分钟自动检测一次成绩是否有更新，若有更新，将通过微信推送及时通知用户。| 正方教务系统 | 显示成绩提交时间 | 显示成绩提交人姓名 | 成绩信息按时间降序排序 | 计算 GPA | 计算百分制 GPA | 显示未公布成绩的课程
+- [NianBroken/ZFCheckScores](https://github.com/NianBroken/ZFCheckScores) - 正方教务管理系统每隔 30 分钟自动检测一次成绩是否有更新，若有更新，将通过微信推送及时通知用户。| 正方教务系统 | 成绩推送 | 显示成绩提交时间 | 显示成绩提交人姓名 | 成绩信息按时间降序排序 | 计算 GPA | 计算百分制 GPA | 显示未公布成绩的课程
 - [Hakuuyosei/QQHistoryExport](https://github.com/Hakuuyosei/QQHistoryExport) - 安卓设备QQ聊天记录导出，支持图片/视频/音频/引用/文件 大部分消息，支持几乎所有的重要消息类型，支持PDF导出，未来将支持html导出
 - [LmeSzinc/StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot) - 崩坏：星穹铁道脚本 | Honkai: Star Rail auto bot (简体中文/繁體中文/English/Español)
 - [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 崩坏：星穹铁道全自动 三月七小助手
@@ -815,6 +814,7 @@
 
 - [sche11/exhentai-manga-manager](https://github.com/sche11/exhentai-manga-manager) - ExHentai本地漫画标签管理阅读应用,  ExHentai local manga tag-manager and reader
 - [SchneeHertz/exhentai-manga-manager](https://github.com/SchneeHertz/exhentai-manga-manager) - ExHentai本地漫画标签管理阅读应用,  ExHentai local manga tag-manager and reader
+- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) - 一个兼容 OneBot 协议的非官方网页版 QQ 客户端、electron 客户端。
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
