@@ -612,7 +612,6 @@
 - [LaMP57/BilibiliMangaDownload](https://github.com/LaMP57/BilibiliMangaDownload) - bilibili漫画下载
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 - [zhishixiang/tencent-push](https://github.com/zhishixiang/tencent-push) - 通过小米推送、FCM转发QQ、微信消息
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [SimonShi1994/Princess-connection-farm](https://github.com/SimonShi1994/Princess-connection-farm) - 国服PCR公主连结 多开自动农场脚本 基于opencv+UIAutomator
 - [sche11/mimotion](https://github.com/sche11/mimotion) - 小米运动刷步数（微信支付宝）
 - [ArknightsAutoHelper/ArknightsAutoHelper](https://github.com/ArknightsAutoHelper/ArknightsAutoHelper) - Arknights Auto Helper based on ADB and Python   |  基于python的明日方舟护肝助手
