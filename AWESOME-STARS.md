@@ -314,7 +314,6 @@
 - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) - 给飞书准备的 ChatGPT 机器人
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [guyijie1211/JustLive-Web](https://github.com/guyijie1211/JustLive-Web) - :tv:一个整合国内多个直播平台内容的网站
 - [sche11/eagleuse](https://github.com/sche11/eagleuse) - 把 Eagle App 打造成本地后台管理系统，快速构建 WEB 图片站。
 - [meetqy/eagle-api](https://github.com/meetqy/eagle-api) - 让你的eagle拥有查询api能力,基于json-server
 - [MuiseDestiny/zotero-style](https://github.com/MuiseDestiny/zotero-style) - Ethereal Style for Zotero
@@ -494,7 +493,7 @@
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
-- [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - 
+- [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player for Android Release, Feedback
 - [notxx/NevolutionXposed](https://github.com/notxx/NevolutionXposed) - 通过xposed实现nevolution
 
 ## PHP 
