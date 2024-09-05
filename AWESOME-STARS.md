@@ -512,7 +512,7 @@
 ## Python 
 
 - [H1DDENADM1N/CapsWriter-Offline](https://github.com/H1DDENADM1N/CapsWriter-Offline) - Windows端 离线语音输入、中译英、字幕转录；在线多译多、云剪贴板
-- [sMythicalBird/ZenlessZoneZero-Auto](https://github.com/sMythicalBird/ZenlessZoneZero-Auto) - 绝区零 | ZenlessZoneZero | 零号空洞 | 自动化 | 图片分类 | OCR识别 | zzz | 图像分类
+- [sMythicalBird/ZenlessZoneZero-Auto](https://github.com/sMythicalBird/ZenlessZoneZero-Auto) - 绝区零 | ZenlessZoneZero | 零号空洞 | 自动战斗 | 自动化 | 图片分类 | OCR识别
 - [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
 - [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard
 - [ArkMowers/arknights-mower](https://github.com/ArkMowers/arknights-mower) - 《明日方舟》长草助手
