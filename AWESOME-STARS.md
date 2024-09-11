@@ -314,6 +314,7 @@
 - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) - 给飞书准备的 ChatGPT 机器人
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [guyijie1211/JustLive-Web](https://github.com/guyijie1211/JustLive-Web) - :tv:一个整合国内多个直播平台内容的网站
 - [sche11/eagleuse](https://github.com/sche11/eagleuse) - 把 Eagle App 打造成本地后台管理系统，快速构建 WEB 图片站。
 - [meetqy/eagle-api](https://github.com/meetqy/eagle-api) - 让你的eagle拥有查询api能力,基于json-server
 - [MuiseDestiny/zotero-style](https://github.com/MuiseDestiny/zotero-style) - Ethereal Style for Zotero
