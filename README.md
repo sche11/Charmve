@@ -467,7 +467,7 @@ The following content is automatically updated by an automation script.
   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=t1tkf993mnoeg0n4p7ljrrkaf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" height="310" alt="spotify-github-profile">
 </a>
 
-<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 :clock930: `2024-09-05 21:25:43`）</sup>
+<sup>我的近期动态（点个 [Star](https://github.com/Charmve/Charmve) 将触发自动刷新，最近更新时间 :clock930: `2024-09-12 21:26:24`）</sup>
 
 <!-- BLOG-POST-LIST:START -->
 - 💄 [国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》源代码](https://blog.csdn.net/Charmve/article/details/141263990)
