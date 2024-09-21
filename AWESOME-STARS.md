@@ -119,7 +119,7 @@
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [Cyberbeing/xy-VSFilter](https://github.com/Cyberbeing/xy-VSFilter) - Official xy-VSFilter Repository
-- [MicroCBer/BetterNCM](https://github.com/MicroCBer/BetterNCM) - NCM 软件插件管理器
+- [std-microblock/BetterNCM](https://github.com/std-microblock/BetterNCM) - NCM 软件插件管理器
 - [sche11/MaaAssistantArknights](https://github.com/sche11/MaaAssistantArknights) - 《明日方舟》小助手，自动刷图、智能基建换班，全日常一键长草！
 - [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
 - [anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP) - Super RDPWrap
@@ -329,6 +329,7 @@
 - [qinyongliang/keeweb](https://github.com/qinyongliang/keeweb) - Free cross-platform password manager compatible with KeePass
 - [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [immersive-translate/old-immersive-translate](https://github.com/immersive-translate/old-immersive-translate) - Let's experience immersive web translation, with bilingual simultaneous display and translation of only the important content. Think of the browser's reading mode, but in immersive translation.
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [sche11/appmulsearch](https://github.com/sche11/appmulsearch) - https://rjss.pages.dev
 - [ashuang360/rjss](https://github.com/ashuang360/rjss) - https://rjss.pages.dev
 - [phguo/Send-to-Telegram-Chrome-Extension](https://github.com/phguo/Send-to-Telegram-Chrome-Extension) - Send-to-Telegram: an extension for Google Chrome that allows you to send web content to your own Telegram Bot.
@@ -357,7 +358,7 @@
 - [Lancarus/Liver-Arknights-Tomorrow](https://github.com/Lancarus/Liver-Arknights-Tomorrow) - 基于按键精灵安卓版的明日方舟脚本
 - [VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether) - Browser Extension to Sync Video Playback on All Video Platforms / 一起看视频浏览器插件，兼容所有平台
 - [phobal/ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
-- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
 - [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat(可免费访问chatGPT3.5和Claude3)
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [jae-jae/Camtd](https://github.com/jae-jae/Camtd) - Chrome multi-threaded download manager extension,based on Aria2 and AriaNg.  Chrome多线程下载扩展。
@@ -639,7 +640,7 @@
 ## Rust 
 
 - [UnblockNeteaseMusic/server-rust](https://github.com/UnblockNeteaseMusic/server-rust) - Rust 版本的 UnblockNeteaseMusic/server ，以效能、穩定性及可維護性為目標。
-- [MicroCBer/BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer) - 一键安装 Better 系软件
+- [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
 - [lolishinshi/exloli](https://github.com/lolishinshi/exloli) - 从 E 站抓取画(ben)廊(zi)并上传 telegraph 并转发至 telegram channel
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -671,7 +672,6 @@
 ## Svelte 
 
 - [openneno/neno](https://github.com/openneno/neno) - 使用svelte+tailwindcss 仿照 浮墨 写的pwa应用
-- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 
 ## TeX 
 
