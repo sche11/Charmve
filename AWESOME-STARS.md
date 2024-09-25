@@ -189,7 +189,7 @@
 - [sche11/NotionBoy](https://github.com/sche11/NotionBoy) - A note app base on Notion
 - [lemoex/oci-help](https://github.com/lemoex/oci-help) - 甲骨文实例抢购教程
 - [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [Nzzz964/QMailStorage](https://github.com/Nzzz964/QMailStorage) - 将QQ邮箱作为网盘 邮箱/QQ邮箱/备份/上传/网盘/附件/发邮件
 - [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 - [sche11/syncthing](https://github.com/sche11/syncthing) - Open Source Continuous File Synchronization
