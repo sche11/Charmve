@@ -189,7 +189,7 @@
 - [sche11/NotionBoy](https://github.com/sche11/NotionBoy) - A note app base on Notion
 - [lemoex/oci-help](https://github.com/lemoex/oci-help) - 甲骨文实例抢购教程
 - [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [Nzzz964/QMailStorage](https://github.com/Nzzz964/QMailStorage) - 将QQ邮箱作为网盘 邮箱/QQ邮箱/备份/上传/网盘/附件/发邮件
 - [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 - [sche11/syncthing](https://github.com/sche11/syncthing) - Open Source Continuous File Synchronization
@@ -328,7 +328,6 @@
 - [qinyongliang/keeweb](https://github.com/qinyongliang/keeweb) - Free cross-platform password manager compatible with KeePass
 - [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [immersive-translate/old-immersive-translate](https://github.com/immersive-translate/old-immersive-translate) - Let's experience immersive web translation, with bilingual simultaneous display and translation of only the important content. Think of the browser's reading mode, but in immersive translation.
-- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [sche11/appmulsearch](https://github.com/sche11/appmulsearch) - https://rjss.pages.dev
 - [ashuang360/rjss](https://github.com/ashuang360/rjss) - https://rjss.pages.dev
 - [phguo/Send-to-Telegram-Chrome-Extension](https://github.com/phguo/Send-to-Telegram-Chrome-Extension) - Send-to-Telegram: an extension for Google Chrome that allows you to send web content to your own Telegram Bot.
@@ -671,6 +670,7 @@
 ## Svelte 
 
 - [openneno/neno](https://github.com/openneno/neno) - 使用svelte+tailwindcss 仿照 浮墨 写的pwa应用
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 
 ## TeX 
 
