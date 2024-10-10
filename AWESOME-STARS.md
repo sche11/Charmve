@@ -304,7 +304,6 @@
 - [vertex-app/vertex](https://github.com/vertex-app/vertex) - 适用于 PT 玩家的追剧刷流一体化综合管理工具
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [xqdd/highlight_new_words](https://github.com/xqdd/highlight_new_words) - chrome插件，根据有道或欧路词典生词本，在网页中标出生词，达到单词加强记忆效果
-- [sche11/ctfileGet](https://github.com/sche11/ctfileGet) - 获取城通网盘一次性直连地址
 - [qinlili23333/ctfileGet](https://github.com/qinlili23333/ctfileGet) - 获取城通网盘一次性直连地址
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 - [sche11/kikoeru-express](https://github.com/sche11/kikoeru-express) - kikoeru 后端，本地音声管理
@@ -405,7 +404,6 @@
 - [lz233/Tarnhelm](https://github.com/lz233/Tarnhelm) - The magic to clean sharing links up.
 - [sche11/typing-learner](https://github.com/sche11/typing-learner) - 可以用 MKV 视频生成词库（单词本），让每个单词都有具体的语境。然后通过语境记忆单词，句子，字幕。
 - [tangshimin/typing-learner](https://github.com/tangshimin/typing-learner) - 使用电影、美剧、字幕或文档生成词库（单词本），让每个单词都有具体的语境。然后通过语境记忆单词。
-- [sche11/LibreTube](https://github.com/sche11/LibreTube) - An alternative frontend for YouTube, for Android. [WIP]
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
 - [kaedei/DanDanPlayForAndroid](https://github.com/kaedei/DanDanPlayForAndroid) - 弹弹play 概念版，弹弹play系列应用安卓平台上的实现，是一个提供了视频播放（本地+局域网）和弹幕加载（在线+本地）功能的本地播放器
@@ -440,6 +438,7 @@
 
 ## Others 
 
+- [1265578519/ShanaEncoder](https://github.com/1265578519/ShanaEncoder) - ShanaEncoder，最强的视频压制软件，支持CPU和GPU同时工作，速度快，清晰度高，B站指定压制工具
 - [st2024/Steamtools](https://github.com/st2024/Steamtools) - Stemtools is designed to enhance your Steam gaming experience by obtaining tickets, letting you freely enjoy games and unlock additional DLCs.
 - [Z4ee/Pipsi-ZZZ-Releases](https://github.com/Z4ee/Pipsi-ZZZ-Releases) - 
 - [qq77522980/syncLazybones](https://github.com/qq77522980/syncLazybones) - One key setup syncthing
@@ -680,6 +679,7 @@
 
 ## TypeScript 
 
+- [Zebeqo/Bangumi](https://github.com/Zebeqo/Bangumi) - 一个 Bangumi 番组计划 web 客户端
 - [chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record) - A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东)
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [lqzhgood/wechat-need-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
@@ -703,7 +703,6 @@
 - [jjmaldonis/obsidian-audio-notes](https://github.com/jjmaldonis/obsidian-audio-notes) - Easily take notes on podcasts and other audio files using Obsidian Audio Notes.
 - [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 - [hamsterbase/hamsterbase](https://github.com/hamsterbase/hamsterbase) - self-hosted, local-first web archive application.
-- [sche11/n8n](https://github.com/sche11/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [Make-md/makemd](https://github.com/Make-md/makemd) - 
 - [sche11/actionsflow](https://github.com/sche11/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
