@@ -102,7 +102,6 @@
 - [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络中间人攻击)
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
 - [SpaceTimee/Ona-Pix](https://github.com/SpaceTimee/Ona-Pix) - Yet Another Pixiv Tool (可用于 Pixiv 直连搜图)
-- [sche11/SteamTools](https://github.com/sche11/SteamTools) - 🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [sovetskyfish/pixivfs-uwp](https://github.com/sovetskyfish/pixivfs-uwp) - A Pixiv client for UWP users
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
@@ -169,7 +168,6 @@
 ## EJS 
 
 - [sothx/mipad-magic-window](https://github.com/sothx/mipad-magic-window) - Hyper OS For Pad/Fold 完美横屏应用计划
-- [sche11/netease-recent-profile](https://github.com/sche11/netease-recent-profile) - 🎧 将你的网易云音乐听歌记录生成一张可配置svg卡片
 
 ## Fluent 
 
@@ -179,7 +177,6 @@
 
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Telegram Drive
 - [Privilege-privacy/BiliBackup](https://github.com/Privilege-privacy/BiliBackup) - 自动将 BiliBili (B站) 收藏夹内的视频备份到 OneDrive 或其他云存储
-- [sche11/gotify-server](https://github.com/sche11/gotify-server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [sche11/onelist](https://github.com/sche11/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
 - [msterzhang/onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
@@ -205,7 +202,6 @@
 - [n0madic/twitter2rss](https://github.com/n0madic/twitter2rss) - Twitter to RSS proxy
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
-- [sche11/wechat-backup](https://github.com/sche11/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。
 - [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。
 - [macronut/ghostcp](https://github.com/macronut/ghostcp) - GhosTCP is a program for Windows that protects the TCP connections from being interfered.
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
@@ -272,7 +268,6 @@
 - [x-falcon/Virtual-Hosts](https://github.com/x-falcon/Virtual-Hosts) - hosts for android,implement by vpn mode,supports wildcard DNS records
 - [kaisar945/Xposed-GodMode](https://github.com/kaisar945/Xposed-GodMode) - A xposed module similar to AdBlock, You can edit the application user interface at will.
 - [HelloLingC/floating-tile](https://github.com/HelloLingC/floating-tile) - 悬浮通知磁贴
-- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [mozhu811/oh-my-helper](https://github.com/mozhu811/oh-my-helper) - 🚀原bilibili-helper-hub，目前已部署B站每日任务及大会员中心任务
 - [alangsuo/BILIBILI-HELPER-PRE](https://github.com/alangsuo/BILIBILI-HELPER-PRE) - 这是一个利用 Linux Crontab , Docker等方式实现哔哩哔哩（Bilibili）每日任务投币，点赞，分享视频，直播签到，银瓜子兑换硬币，漫画每日签到，简单配置即可每日轻松获取 65 经验值，快来和我一起成为 Lv6 吧~~~~
 - [dadaewq/Install-Lion](https://github.com/dadaewq/Install-Lion) - 安装狮 接入了 冰箱SDK、Delegated-Scopes-Manager与Shizuku实现静默安装
@@ -343,7 +338,6 @@
 - [l0o0/translators_CN](https://github.com/l0o0/translators_CN) - Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [sche11/NeteaseCloudMusicApi](https://github.com/sche11/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [Freeboard/thingproxy](https://github.com/Freeboard/thingproxy) - A simple forward proxy server for processing API calls to servers that don't send CORS headers or support HTTPS.
 - [sche11/privacy-redirect](https://github.com/sche11/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
@@ -402,8 +396,6 @@
 - [SimonMarquis/FCM-toolbox](https://github.com/SimonMarquis/FCM-toolbox) - 📲 Firebase Cloud Messaging toolbox
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [lz233/Tarnhelm](https://github.com/lz233/Tarnhelm) - The magic to clean sharing links up.
-- [sche11/typing-learner](https://github.com/sche11/typing-learner) - 可以用 MKV 视频生成词库（单词本），让每个单词都有具体的语境。然后通过语境记忆单词，句子，字幕。
-- [tangshimin/typing-learner](https://github.com/tangshimin/typing-learner) - 使用电影、美剧、字幕或文档生成词库（单词本），让每个单词都有具体的语境。然后通过语境记忆单词。
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
 - [kaedei/DanDanPlayForAndroid](https://github.com/kaedei/DanDanPlayForAndroid) - 弹弹play 概念版，弹弹play系列应用安卓平台上的实现，是一个提供了视频播放（本地+局域网）和弹幕加载（在线+本地）功能的本地播放器
@@ -465,10 +457,8 @@
 - [zibrr/zotero-if-pro-max_cracked](https://github.com/zibrr/zotero-if-pro-max_cracked) - Zotero-IF-PRO-MAX 破解版 已排除正版中植入的破坏程序代码 安心使用 A cracked version of zotero-if-pro-max
 - [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - 
 - [sche11/sche11](https://github.com/sche11/sche11) - 
-- [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [glados-network/GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
 - [hllqk/github-proxy-and-can-login](https://github.com/hllqk/github-proxy-and-can-login) - Making the reverse proxy and implement the login    Github反向代理并实现登录
-- [sche11/github-proxy](https://github.com/sche11/github-proxy) - 利用Vercel做反向代理,访问GitHub网站.
 - [XiaoXinYo/Vercel-Reverse-Proxy](https://github.com/XiaoXinYo/Vercel-Reverse-Proxy) - 使用Vercel做反向代理,访问GitHub网站.
 - [easychen/rsspush](https://github.com/easychen/rsspush) - 监测RSS变动，并发送最新内容到微信、Webhook 和 Telegram, Discord, Slack, Amazon SNS, Gotify 等数十个消息通道。
 - [Elypha/azurlane-mod](https://github.com/Elypha/azurlane-mod) - 碧蓝航线 立绘/Live2D 修改 (mod)
@@ -542,7 +532,6 @@
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss
-- [sche11/chatgpt_academic](https://github.com/sche11/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [fugary/calibre-douban](https://github.com/fugary/calibre-douban) - Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
 - [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) - A Calibre plugin to translate ebook into a specified language.
@@ -585,11 +574,8 @@
 - [ZhichuCen/ChunJi](https://github.com/ZhichuCen/ChunJi) - 唇记-一种助盲语音文字编辑系统 A text editor with Chinese voice control
 - [AsaChiri/DDRecorder](https://github.com/AsaChiri/DDRecorder) - 📺Headless全自动B站直播录播、切片、上传一体工具
 - [CJReinforce/PikPakAutoOfflineDownloadBot](https://github.com/CJReinforce/PikPakAutoOfflineDownloadBot) - 自动PikPak离线下载+aria2下载+释放网盘空间的TG机器人
-- [sche11/morss](https://github.com/sche11/morss) - Get full text RSS feeds
-- [pictuga/morss](https://github.com/pictuga/morss) - Get full text RSS feeds
 - [Tippye/FollowAnime](https://github.com/Tippye/FollowAnime) - 自动追番，下载视频
 - [tom-snow/docker-ComWechat](https://github.com/tom-snow/docker-ComWechat) - A docker image for https://github.com/ljc545w/ComWeChatRobot
-- [sche11/RSS-Filter](https://github.com/sche11/RSS-Filter) - A RSSHub for Pythonista
 - [lixi5338619/weixin-spider](https://github.com/lixi5338619/weixin-spider) - 《微信公众号采集系统》微信公众号文章的阅读数、在看数、评论数、评论列表，还有微信公众号的账号基本信息。
 - [howie6879/liuli](https://github.com/howie6879/liuli) - 一站式构建多源、干净、个性化的阅读环境(Build a multi-source, clean and personalized reading environment in one stop.)
 - [sche11/rsschan](https://github.com/sche11/rsschan) - A update&push rss/feed tool
@@ -646,10 +632,7 @@
 
 ## SCSS 
 
-- [sche11/digitalgarden](https://github.com/sche11/digitalgarden) - 
-- [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) - 
 - [tefkah/zotero-night](https://github.com/tefkah/zotero-night) - Night theme for Zotero UI and PDF
-- [sche11/ALL-about-RSS](https://github.com/sche11/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ## Shell 
@@ -705,7 +688,6 @@
 - [hamsterbase/hamsterbase](https://github.com/hamsterbase/hamsterbase) - self-hosted, local-first web archive application.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [Make-md/makemd](https://github.com/Make-md/makemd) - 
-- [sche11/actionsflow](https://github.com/sche11/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [zhengbangbo/chat-simplifier](https://github.com/zhengbangbo/chat-simplifier) - Simplify your chat content in seconds (by OpenAI)
 - [LanyuanXiaoyao-Studio/utools-recent-projects](https://github.com/LanyuanXiaoyao-Studio/utools-recent-projects) - uTools 插件, 快速查询最近打开的项目
@@ -722,12 +704,9 @@
 - [sche11/AFFiNE](https://github.com/sche11/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [webrecorder/replayweb.page](https://github.com/webrecorder/replayweb.page) - Serverless replay of web archives directly in the browser
-- [sche11/flow](https://github.com/sche11/flow) - ePub Reader. Redefined.
-- [pacexy/flow](https://github.com/pacexy/flow) - Browser-based ePub reader
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [sche11/moon-reader-highlights](https://github.com/sche11/moon-reader-highlights) - 🌙 Moon+ Reader Highlights - Store and control your bookmarks from application [This is a PoC]
 - [ynhhoJ/moon-reader-highlights](https://github.com/ynhhoJ/moon-reader-highlights) - 🌙 Moon+ Reader Highlights - Store and control your bookmarks from application [This is a PoC]
-- [sche11/RSSHub](https://github.com/sche11/RSSHub) - 🍰 Everything is RSSible
 - [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
 - [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
 - [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
@@ -790,7 +769,6 @@
 - [andywang425/BLTH](https://github.com/andywang425/BLTH) - 哔哩哔哩（bilibili.com）油猴辅助脚本，Bilibili Live Tasks Helper。
 - [sche11/qinglong](https://github.com/sche11/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）
 - [VoileLabs/imgtrans-userscript](https://github.com/VoileLabs/imgtrans-userscript) - Userscript for https://touhou.ai/imgtrans/
-- [sche11/lanzouyun-disk](https://github.com/sche11/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
@@ -822,7 +800,6 @@
 - [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 Desktop Widget ( 桌面小组件 )
 - [lvxianchao/the-fucking-github](https://github.com/lvxianchao/the-fucking-github) - A Chrome extension for Github. View starred repositories, organizing stars, searching stars and searching repositories online for Github。
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
-- [sche11/melody](https://github.com/sche11/melody) - 我的音乐精灵
 - [sin1ght/rss-web](https://github.com/sin1ght/rss-web) - 一个web版的rss阅读器，vue+vue-router+koa2+sqlite+redis
 - [Pelom777/AzurLaneTools](https://github.com/Pelom777/AzurLaneTools) - 碧蓝航线工具箱
 - [Nekogram/files](https://github.com/Nekogram/files) - Websites for Nekogram.
