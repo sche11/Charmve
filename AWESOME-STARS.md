@@ -95,7 +95,6 @@
 - [Bakabase/AzurLane](https://github.com/Bakabase/AzurLane) - 碧蓝航线工具/AzurLane Tools: 立绘提取/Extract paintings
 - [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
 - [Ormicron/Sharp-dumpkey](https://github.com/Ormicron/Sharp-dumpkey) - 基于C#实现的获取微信数据库密钥的小工具
-- [sche11/Pixeval](https://github.com/sche11/Pixeval) - Wow. Yet another Pixiv client!
 - [Pixeval/Pixeval](https://github.com/Pixeval/Pixeval) - Wow. Yet another Pixiv client!
 - [justcoding121/titanium-web-proxy](https://github.com/justcoding121/titanium-web-proxy) - A cross-platform asynchronous HTTP(S) proxy server in C#.
 - [sche11/Sheas-Cealer](https://github.com/sche11/Sheas-Cealer) - Just Ceal It
@@ -535,7 +534,6 @@
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [fugary/calibre-douban](https://github.com/fugary/calibre-douban) - Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
 - [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) - A Calibre plugin to translate ebook into a specified language.
-- [sche11/ColossalAI](https://github.com/sche11/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [sche11/Auto_Bangumi](https://github.com/sche11/Auto_Bangumi) - AutoBangumi - 全自动追番工具，节约时间创造价值
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
