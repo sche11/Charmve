@@ -499,6 +499,7 @@
 
 ## Python 
 
+- [DoctorReid/ZenlessZoneZero-OneDragon](https://github.com/DoctorReid/ZenlessZoneZero-OneDragon) - 绝区零 一条龙 | 全自动 | 自动闪避 | 自动每日 | 自动空洞 | 支持手柄
 - [H1DDENADM1N/CapsWriter-Offline](https://github.com/H1DDENADM1N/CapsWriter-Offline) - Windows端 离线语音输入、中译英、字幕转录；在线多译多、云剪贴板
 - [sMythicalBird/ZenlessZoneZero-Auto](https://github.com/sMythicalBird/ZenlessZoneZero-Auto) - 绝区零 | ZenlessZoneZero | 零号空洞 | 自动战斗 | 自动化 | 图片分类 | OCR识别
 - [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
