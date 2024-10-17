@@ -72,6 +72,7 @@
 
 ## C# # 
 
+- [XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool) - 📃 UAC 白名单小工具！
 - [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - 实用的开源多功能原神工具箱 🧰 / Multifunctional Open-source Genshin Impact Toolkit 🧰
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
@@ -283,6 +284,7 @@
 
 ## JavaScript 
 
+- [Cinvin/myuserscripts](https://github.com/Cinvin/myuserscripts) - 油猴脚本:网易云音乐:云盘歌曲快传(含周杰伦),歌曲下载,转存云盘,云盘匹配纠正,本地上传云盘 咪咕音乐:歌曲下载
 - [Number178/kikoeru-express](https://github.com/Number178/kikoeru-express) - kikoeru backend support RJ/BJ/VJ 6 or 8 digits code
 - [jiwangyihao/source-j-legado](https://github.com/jiwangyihao/source-j-legado) - My book source set for legado, mainly focused on light novels and maybe later manga (?)
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
@@ -318,7 +320,6 @@
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [sche11/bilibili-API-collect](https://github.com/sche11/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [sche11/wechrome](https://github.com/sche11/wechrome) - Chrome extension to unblock web wechat
-- [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!
 - [sche11/happypandax](https://github.com/sche11/happypandax) - A cross-platform server and client application for managing and reading manga and doujinshi
 - [happypandax/happypandax](https://github.com/happypandax/happypandax) - A cross-platform server and client application for managing and reading manga and doujinshi
 - [qinyongliang/keeweb](https://github.com/qinyongliang/keeweb) - Free cross-platform password manager compatible with KeePass
@@ -705,6 +706,7 @@
 - [sche11/AFFiNE](https://github.com/sche11/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [webrecorder/replayweb.page](https://github.com/webrecorder/replayweb.page) - Serverless replay of web archives directly in the browser
+- [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [sche11/moon-reader-highlights](https://github.com/sche11/moon-reader-highlights) - 🌙 Moon+ Reader Highlights - Store and control your bookmarks from application [This is a PoC]
 - [ynhhoJ/moon-reader-highlights](https://github.com/ynhhoJ/moon-reader-highlights) - 🌙 Moon+ Reader Highlights - Store and control your bookmarks from application [This is a PoC]
